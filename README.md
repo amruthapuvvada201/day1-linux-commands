@@ -1,6 +1,6 @@
 # day1-linux-commanda
 ## basic linux commands
-- pud
+- pwd
 -ls
 -cd path
 -cd ../
